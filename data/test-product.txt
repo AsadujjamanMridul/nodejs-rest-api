@@ -1,0 +1,5 @@
+{
+        'title': 'Test Product',
+        'description': 'This is my product',
+        'price': 100
+}
