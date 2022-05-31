@@ -1,6 +1,6 @@
 # Node Js - REST API
 
-This project contains a REST API, which is made with only vanilla Node Js. Users are able to implement CRUD operation in this app. No subsidiary library (i.e. Express Js) has been used, that can make easier to build the API.
+This project contains a REST API, which is made with only vanilla Node Js. Users are able to implement CRUD operation in this app. No subsidiary library (i.e. Express Js) has been used, that would make easier to build the API.
 
 ## Basic Structure
 
